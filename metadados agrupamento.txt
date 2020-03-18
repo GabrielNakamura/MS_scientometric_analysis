@@ -1,0 +1,6 @@
+##metadados agrupamento
+1- similaridade: todas as métricas de similaridade agrupadas
+2- equitability: todas as métricas de equitabilidade agrupadas 
+3- div. genética: todas as métricas de diversidade genética agrupadas
+4- *functional diversity: índice não especificado de diversidade funcional
+5- **functional diverstiy: índice não especificado de diversidade funcional
